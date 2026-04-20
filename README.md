@@ -1,2 +1,2 @@
-# sf35803-individual-heart_disease_prediction
+# SF35803-individual-career-recommendation
 Individual coursework for SF35803 Computer Programming based on machine learning.
