@@ -1,9 +1,10 @@
+from config import RAW_DATA_PATH, OUTPUT_FIGURES_PATH, RANDOM_STATE, TEST_SIZE, N_ESTIMINATIONS, NUMERIC_COLUMS, TEXT_COLUMNS, TARGET_COLIMN
 from data.data_loader import load_career_data
 from preprocessing.preprocessing import overview_data, preprocess_data
 from models.model_training import train_model
 from evaluation.evaluation import evaluate_model
 from utils.visualization import plot_age_distribution, plot_education_count
-
+import os
 # Load
 df = load_career_data()
 
