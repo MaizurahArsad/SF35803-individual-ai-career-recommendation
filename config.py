@@ -1,7 +1,7 @@
 # config.py
 
 # File paths
-RAW_DATA_PATH = "data/raw/career_recommendation.csv"
+RAW_DATA_PATH = "data/raw/ai.career_recommendation.csv"
 OUTPUT_FIGURES_PATH = "outputs/figures/"
 
 # Model settings
